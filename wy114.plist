@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/yk114.ipa</string>
+					<string>http://60.191.220.219:8095/wy114.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/yk11457x57.png</string>
+					<string>http://60.191.220.219:8095/wy11457x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/yk114114x114.png</string>
+					<string>http://60.191.220.219:8095/wy114114x114.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zohu.yk114</string>
+				<string>com.zohu.wy114</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>永康114</string>
+				<string>武义114</string>
 			</dict>
 		</dict>
 	</array>
