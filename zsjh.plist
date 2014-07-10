@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/zszg.ipa</string>
+					<string>http://60.191.220.219:8095/zsjh.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/zszg57x57.png</string>
+					<string>http://60.191.220.219:8095/zsjh57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/zszg114x114.png</string>
+					<string>http://60.191.220.219:8095/zsjh114x114.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zohu.zszg</string>
+				<string>com.zohu.zsjh</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌上中国</string>
+				<string>掌上金华</string>
 			</dict>
 		</dict>
 	</array>
