@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/zwt.ipa</string>
+					<string>http://60.191.220.219:8095/dfwdt.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/zwt57x57.png</string>
+					<string>http://60.191.220.219:8095/dfwdt57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/zwt114x114.png</string>
+					<string>http://60.191.220.219:8095/dfwdt114x114.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zohu.zwt</string>
+				<string>com.zohu.dfwdt</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>政务通</string>
+				<string>大丰网贷通</string>
 			</dict>
 		</dict>
 	</array>
