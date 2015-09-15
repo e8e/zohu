@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/jh114.ipa</string>
+					<string>http://app.13114.cc:8095/jh114.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/jh11457x57.png</string>
+					<string>http://app.13114.cc:8095/jh11457x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://60.191.220.219:8095/jh114114x114.png</string>
+					<string>http://app.13114.cc:8095/jh114114x114.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.zohu.jh114</string>
 				<key>bundle-version</key>
-				<string>1.6</string>
+				<string>1.6.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
